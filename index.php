@@ -11,7 +11,7 @@ $Forn->execute();
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Kd Vacina</title>
+  <title>Cade Vacina</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -41,7 +41,7 @@ $Forn->execute();
     <nav class="navbar navbar-static-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="index2.html" class="navbar-brand"><img src="./logo_cadevacina.png" /></a>
+          <span>Lista de vacinas excedentes na rede pública de saúde</span>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
             <i class="fa fa-bars"></i>
           </button>
@@ -72,9 +72,7 @@ $Forn->execute();
     <div class="container">
       <!-- Content Header (Page header) -->
       <section class="content-header">
-        <h1>
-          <strong>KD</strong>Vacina - Lista de Vacinas
-        </h1>
+        <img src="./logo_cadevacina.png" style="height: 150px;"/>
 
       </section>
 
