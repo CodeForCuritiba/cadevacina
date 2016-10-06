@@ -41,7 +41,7 @@ $Forn->execute();
     <nav class="navbar navbar-static-top">
       <div class="container">
         <div class="navbar-header">
-          <a href="#">Lista de vacinas excedentes na rede pública de saúde</a>
+          <h2>Lista de vacinas excedentes na rede pública de saúde</h2>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
             <i class="fa fa-bars"></i>
           </button>
